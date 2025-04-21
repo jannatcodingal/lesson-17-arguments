@@ -1,0 +1,5 @@
+a=int(input("enter diameter of a circle: "))
+b=(a/2)
+print("radius = ",b)
+circumference=(2*22/7*b)
+print("circumference: ",circumference)
